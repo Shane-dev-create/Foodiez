@@ -8,7 +8,7 @@
 
 
 
-**Key Features:**
+**Key Features:**  
 `Responsive Design:`
 
 - Utilizing the Mobile First methodology ensures an optimal user experience on mobile devices.

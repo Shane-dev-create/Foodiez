@@ -1,4 +1,4 @@
-!# Foodiez
+# Foodiez
 ![foodiez img](/foodiez_logo.png)
 ## Food ordering app
 

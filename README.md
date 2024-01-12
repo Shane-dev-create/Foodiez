@@ -1,4 +1,4 @@
-# Foodiez
+!# Foodiez
 ![foodiez img](/foodiez_logo.png)
 ## Food ordering app
 
@@ -29,7 +29,7 @@ Intuitive User Interface:
 - Ensure Foodiez is compatible with all mobile devices, providing a consistent and optimized experience for users on the go.
 - Responsive design elements guarantee a seamless transition between different screen sizes.
 
-## Author Info
+## Author Information
 
 - G Segakweng
 - Bala Sule
